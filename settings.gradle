@@ -1,0 +1,1 @@
+include ':app', ':learnfragmentfirst', ':training06', ':learnrecyclerview', ':mymovie', ':learnsession', ':learnfirebase'

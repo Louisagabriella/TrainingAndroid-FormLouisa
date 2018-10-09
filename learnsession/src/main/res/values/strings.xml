@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LernSession</string>
+    <string-array name="education">
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+    </string-array>
+</resources>

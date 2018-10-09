@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kalkulator Louisa</string>
+    <string name="button_text">Tombol</string>
+    <string name="click">KLIKED</string>
+    <string-array name="list_kota">
+        <item>---KOTA---</item>
+        <item>Tulungagung</item>
+        <item>Blitar</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+    </string-array>
+</resources>

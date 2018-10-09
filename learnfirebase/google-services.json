@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380119497448",
+    "firebase_url": "https://formlouisa-16a6c.firebaseio.com",
+    "project_id": "formlouisa-16a6c",
+    "storage_bucket": "formlouisa-16a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380119497448:android:d76153eefc7388a4",
+        "android_client_info": {
+          "package_name": "id.co.asyst.gabriella.louisa.learnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380119497448-fdvh2qet32gpc91v6mm6se60shs71tup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.asyst.gabriella.louisa.learnfirebase",
+            "certificate_hash": "fd027bdef18bb42d8f6cb53fb5a22263cda72b50"
+          }
+        },
+        {
+          "client_id": "380119497448-1cl0vlni74lauc33s5n07olepban742v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPTsPjrYEtFfdboVZVi8nOOaA2EeXBH6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380119497448-1cl0vlni74lauc33s5n07olepban742v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
